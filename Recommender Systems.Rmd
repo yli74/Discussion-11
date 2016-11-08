@@ -1,0 +1,30 @@
+---
+title: "Discussion 11: Recommender Systems"
+output: html_document
+---
+
+[Netflix](https://www.netflix.com/) is a great example of rocommentdater system because it offers users recommendations on movies or TV shows they might like based on what they have watched,searched and rated before. 
+
+  - Continue Watching
+  - Tredning Now
+  - Personalized Movie Recommendations
+
+Scenario Design Analysis:
+
+1. Who are your taget users?
+```sh
+Answer: The target users are age 17 and up, both males and females. As well as households who can afford the monthly subscription fee. 
+```
+
+2. What are their key goals?
+```sh
+Answer: The money resource is mainly from the monthly subcription fee. It's their goal to keep the subscribers to stay and attract more new users, in order to dominate the global intenet TV market and replace the tradtional cable-TVs/media companies.
+```
+
+3. How can you help them accomplish those goals?
+```sh
+Answer: To optimize the recommender system for incremental gains, personalization is the key for people to continue gaining the benefits. Netflix has invested a lot in complementing for the best recommendation algorithms. But I also think the key effectiveness of its recommender systam actually comes from user's ratings on the movies/videos/shows they've watched, but personally I've never rated anything on Netlifx because the feature never stood out to me, once they've improved this part of user experiences, they can provide even vetter predictive accurancy. 
+```
+
+Reverse engineering:
+An editor from the Atlantic actually did an article on ["How Netflix Reverse Enginneered Hollywood"](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/). Specifically he shared on his findings about how Netflix had a large group of people to folow a 36-page guide on how to watch movies then tag them in the most wide ranges of metadata, so specifcic that even the moral of each character needed to be ranked. Then Netflix use these genres to predict users' personalized recommendations. And of course, they also apply it in the algorithms to produce popular shows like "Organge is the new black", "How to make a murderer", and "House of Cards". 
